@@ -42,3 +42,6 @@ Contrato  •  jun/2021 - dez/2021 \
 Serviços: `Desenvolvedor React.js - Helpdesk`
 <br/>
 <br/>
+<br/>
+
+![Snake animation](https://github.com/JoaoVitorLima242/JoaoVitorLima242/blob/output/github-contribution-grid-snake.svg)
