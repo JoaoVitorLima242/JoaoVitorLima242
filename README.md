@@ -29,8 +29,15 @@ Na visão geral abaixo, você encontrará minha experiência de trabalho mais re
 
 <img align="left" height="100px" width="100px" alt="Logos logo" src="logos_logo.svg"/>
 
-**LOGOS INTELIGENCIA CORPORATIVA LTDA** \
- Full-time  •  dez/2021 - atual \
-Serviços: `Desenvolvedor Front-End`
+**Logos Inteligência Corporativa LTDA** \
+Full-time  •  dez/2021 - atual \
+Serviços: `Desenvolvedor React.js`
+<br/>
+<br/>
+<img align="left" height="100px" width="100px" alt="Quiweb logo" src="quiweb_logo.svg"/>
+
+**Quiweb Soluções Digitais LTDA** \
+Contrato  •  jun/2021 - dez/2021 \
+Serviços: `Desenvolvedor React.js - Helpdesk`
 <br/>
 <br/>
