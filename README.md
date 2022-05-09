@@ -23,3 +23,14 @@
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
   </a>
 </p>
+
+### Experiência de Trabalho
+Na visão geral abaixo, você encontrará minha experiência de trabalho mais recente:
+
+<img align="left" height="100px" width="100px" alt="Logos logo" src="logos_logo.svg"/>
+
+**LOGOS INTELIGENCIA CORPORATIVA LTDA** \
+ Full-time  •  dez/2021 - atual \
+Serviços: `Desenvolvedor Front-End`
+<br/>
+<br/>
