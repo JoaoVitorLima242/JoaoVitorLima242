@@ -34,6 +34,7 @@ Full-time  •  dez/2021 - atual \
 Serviços: `Desenvolvedor React.js`
 <br/>
 <br/>
+<br/>
 <img align="left" height="100px" width="100px" alt="Quiweb logo" src="quiweb_logo.svg"/>
 
 **Quiweb Soluções Digitais LTDA** \
