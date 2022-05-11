@@ -1,7 +1,8 @@
 <!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
 
 <img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
-
+<br/>
+<br/>
 <p align="left"> 
   🌎 Olá, meu nome é João Vitor Brietzke de Lima. Sou <strong>Desenvolvedor FullStack.</strong>
 </p>
@@ -11,7 +12,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Insomnia, Vercel, Git, GitLab, GitHub e Bitbucket.</strong>
+  💼 Ferramentas: <strong>Linux, VSCode, Figma, Insomnia, Vercel, Git, GitLab, GitHub e Bitbucket.</strong>
 </p>
 
 <p align="left">
