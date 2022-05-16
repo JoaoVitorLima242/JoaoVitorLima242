@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, ReactJS, Typescript, NodeJS e MongoDB.</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, ReactJS, Next.js, Typescript, NodeJS e MongoDB.</strong>
 </p>
 
 <p align="left">
