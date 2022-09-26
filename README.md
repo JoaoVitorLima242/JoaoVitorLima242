@@ -4,19 +4,19 @@
 <br/>
 <br/>
 <p align="left"> 
-  🌎 Olá, meu nome é João Vitor Brietzke de Lima. Sou <strong>Desenvolvedor FullStack.</strong>
+  🌎 Hi, my name is João Vitor Brietzke de Lima. I'm a <strong>FullStack Developer.</strong>
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, Css, Sass, JavaScript, ReactJS, NextJS, Typescript, NodeJS, GraphQL, MongoDB e Mongoose.</strong>
+  🦄 Skills: <strong>HTML, Css, Sass, JavaScript, ReactJS, NextJS, Typescript, NodeJS, GraphQL, MongoDB e Mongoose.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Linux, VSCode, Figma, Insomnia, Vercel, Git, GitLab, GitHub e Bitbucket.</strong>
+  💼 Tools: <strong>Linux, MacOS, VSCode, Figma, Insomnia, Vercel, Git, GitLab, GitHub e Bitbucket.</strong>
 </p>
 
 <p align="left">
-  💌 Se você deseja bater um papo comigo, não hesite em me enviar uma mensagem.
+  💌 If you want to chat with me, don't hesitate to send me a message.
 </p>
 
 <p align="left">
@@ -25,14 +25,14 @@
   </a>
 </p>
 
-### Experiência de Trabalho
-Na visão geral abaixo, você encontrará minha experiência de trabalho mais recente:
+### Work Experience
+In the overview below you will find my most recent work experience:
 
 <img align="left" height="100px" width="100px" alt="Logos logo" src="logos_logo.svg"/>
 
 **Logos Inteligência Corporativa LTDA** \
-Full-time  •  dez/2021 - atual \
-Serviços: `Desenvolvedor React.js`
+Full-time  •  dez/2021 - current \
+: `Desenvolvedor React.js`
 <br/>
 <br/>
 <br/>
@@ -40,7 +40,7 @@ Serviços: `Desenvolvedor React.js`
 
 **Quiweb Soluções Digitais LTDA** \
 Contrato  •  jun/2021 - dez/2021 \
-Serviços: `Desenvolvedor React.js - Helpdesk`
+Service: `Desenvolvedor React.js - Helpdesk`
 <br/>
 <br/>
 <br/>
