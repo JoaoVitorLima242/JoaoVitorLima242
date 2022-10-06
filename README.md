@@ -32,7 +32,7 @@ In the overview below you will find my most recent work experience:
 
 **Logos Inteligência Corporativa LTDA** \
 Full-time  •  dez/2021 - current \
-: `Desenvolvedor React.js`
+`Desenvolvedor React.js`
 <br/>
 <br/>
 <br/>
@@ -40,7 +40,7 @@ Full-time  •  dez/2021 - current \
 
 **Quiweb Soluções Digitais LTDA** \
 Contrato  •  jun/2021 - dez/2021 \
-Service: `Desenvolvedor React.js - Helpdesk`
+`Desenvolvedor React.js - Helpdesk`
 <br/>
 <br/>
 <br/>
