@@ -31,7 +31,7 @@
         <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
       </a>
       <a href="https://joaovitorbrietzkelima.me/" alt="Personal website">
-        <img src="https://img.shields.io/badge/-PERSONAL%20WEBSITE-1C1C1C?style=for-the-badge&&logoColor=#108a00&link=https://www.upwork.com/in/iuricode"/>
+        <img src="https://img.shields.io/badge/-PERSONAL%20WEBSITE-1C1C1C?style=for-the-badge&logo=appveyor&logoColor=#fff"/>
       </a>
     </p>
     </div>
