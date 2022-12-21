@@ -19,12 +19,21 @@
   💌 If you want to chat with me, don't hesitate to send me a message.
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-brietzke-de-lima-804a60209/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
-  </a>
-</p>
-
+<div style="
+    display: inline-flex;
+">
+  <div>
+    <p align="left">
+      <a href="https://www.upwork.com/freelancers/~018ea73575e64d2ca4" alt="UpWork">
+        <img src="https://img.shields.io/badge/-UPWORK-1C1C1C?style=for-the-badge&logo=upWork&logoColor=#108a00&link=https://www.upwork.com/in/iuricode"/>
+      </a>
+      <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-brietzke-de-lima-804a60209/" alt="Linkedin">
+        <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
+      </a>
+    </p>
+    </div>
+      
+</div>
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
