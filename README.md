@@ -4,15 +4,15 @@
 <br/>
 <br/>
 <p align="left"> 
-  🌎 Hi, my name is João Vitor Brietzke de Lima. I'm a <strong>FullStack Developer.</strong>
+  🌎 Hi, my name is João Vitor Brietzke de Lima. I'm a <strong>FullStack Web & Mobile Developer.</strong>
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML, Css, Sass, JavaScript, ReactJS, NextJS, Typescript, NodeJS, GraphQL, MongoDB e Mongoose.</strong>
+  🦄 Skills: <strong>HTML, Css, Sass, Styled Components, JavaScript, ReactJS, React Native, NextJS, Typescript, NodeJS, GraphQL, MongoDB e Mongoose.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Linux, MacOS, VSCode, Figma, Insomnia, Vercel, Git, GitLab, GitHub e Bitbucket.</strong>
+  💼 Tools: <strong>Linux, MacOS, VSCode, Figma, Insomnia, Vercel, Heroku, AWS S3, Stripe, Git, GitLab, GitHub e Bitbucket.</strong>
 </p>
 
 <p align="left">
@@ -37,7 +37,7 @@
     </div>
       
 </div>
-### Work Experience
+<h2>Work Experience</h2>
 In the overview below you will find my most recent work experience:
 
 <img align="left" height="100px" width="100px" alt="Logos logo" src="logos_logo.svg"/>
