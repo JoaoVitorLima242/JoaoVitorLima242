@@ -38,21 +38,29 @@
       
 </div>
 <h2>Work Experience</h2>
-In the overview below you will find my most recent work experience:
+<p>In the overview below you will find my most recent work experience:</p>
 
+<img align="left" height="100px" width="100px" alt="Curiosity Lab logo" src="cl_logo.svg"/>
+
+**Curiosity Lab** \
+Freelancer Team  •  mar/2022 - current \
+`Fullstack Web & Mobile Developer`
+<br/>
+<br/>
+<br/>
 <img align="left" height="100px" width="100px" alt="Logos logo" src="logos_logo.svg"/>
 
 **Logos Inteligência Corporativa LTDA** \
-Full-time  •  dez/2021 - current \
-`Desenvolvedor React.js`
+Full-time  •  dez/2021 - nov/2022 \
+`Front-end Developer`
 <br/>
 <br/>
 <br/>
 <img align="left" height="100px" width="100px" alt="Quiweb logo" src="quiweb_logo.svg"/>
 
 **Quiweb Soluções Digitais LTDA** \
-Contrato  •  jun/2021 - dez/2021 \
-`Desenvolvedor React.js - Helpdesk`
+Contract  •  jun/2021 - dez/2021 \
+`Front-end Developer`
 <br/>
 <br/>
 <br/>
