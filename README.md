@@ -64,5 +64,3 @@ Contract  •  jun/2021 - dez/2021 \
 <br/>
 <br/>
 <br/>
-
-![Snake animation](https://github.com/JoaoVitorLima242/JoaoVitorLima242/blob/output/github-contribution-grid-snake.svg)
