@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML, Css, Sass, Styled Components, JavaScript, ReactJS, React Native, NextJS, Typescript, NodeJS, GraphQL, MongoDB e Mongoose.</strong>
+  🦄 Skills: <strong> ReactJS, React Native, NextJS, Typescript, NodeJS, Styled Components, JavaScript, GraphQL, MongoDB, Flutter, and SQL</strong>
 </p>
 
 <p align="left">
