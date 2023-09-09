@@ -40,7 +40,7 @@
 <h2>Work Experience</h2>
 <p>In the overview below you will find my most recent work experience:</p>
 
-<img align="left" height="100px" width="100px" alt="Meta logo" src="meta_logo.svg"/>
+<img align="left" height="100px" width="100px" alt="Meta logo" src="meta_logo.jpeg"/>
 
 **Meta** \
 Full-time  •  Feb/2023 - current \
