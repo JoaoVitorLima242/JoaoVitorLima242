@@ -40,10 +40,19 @@
 <h2>Work Experience</h2>
 <p>In the overview below you will find my most recent work experience:</p>
 
+<img align="left" height="100px" width="100px" alt="Meta logo" src="meta_logo.svg"/>
+
+**Meta** \
+Full-time  •  Feb/2023 - current \
+`Fullstack Web Developer`
+<br/>
+<br/>
+<br/>
+
 <img align="left" height="100px" width="100px" alt="Curiosity Lab logo" src="cl_logo.svg"/>
 
 **Curiosity Lab** \
-Freelancer Team  •  mar/2022 - current \
+Freelancer Team  •  Mar/2022 - Feb/2023 \
 `Fullstack Web & Mobile Developer`
 <br/>
 <br/>
@@ -51,7 +60,7 @@ Freelancer Team  •  mar/2022 - current \
 <img align="left" height="100px" width="100px" alt="Logos logo" src="logos_logo.svg"/>
 
 **Logos Inteligência Corporativa LTDA** \
-Full-time  •  dez/2021 - nov/2022 \
+Full-time  •  Dec/2021 - Nov/2022 \
 `Front-end Developer`
 <br/>
 <br/>
@@ -59,7 +68,7 @@ Full-time  •  dez/2021 - nov/2022 \
 <img align="left" height="100px" width="100px" alt="Quiweb logo" src="quiweb_logo.svg"/>
 
 **Quiweb Soluções Digitais LTDA** \
-Contract  •  jun/2021 - dez/2021 \
+Contract  •  Jun/2021 - Dec/2021 \
 `Front-end Developer`
 <br/>
 <br/>
