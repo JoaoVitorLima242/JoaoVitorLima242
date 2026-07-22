@@ -1,13 +1,29 @@
-# João Vitor Brietzke de Lima
+<h1 align="center">João Vitor Brietzke de Lima</h1>
 
-Co-Fundador e COO da **NSD Tecnologia**.
+<p align="center">
+  Co-Founder & COO at <strong>NSD Tecnologia</strong>
+</p>
 
-Alocamos devs, especialistas e squads com gestão técnica acoplada — um gestor nosso do seu lado, do início ao fim.
+<p align="center">
+  We allocate developers, specialists and squads with embedded technical management —<br/>
+  one of our tech leads working alongside your team from day one.
+</p>
 
-Lidero um time de +20 pessoas em projetos de bancos digitais, gateways de pagamento, SaaS e automações.
+<p align="center">
+  Leading a team of 20+ people across digital banks, payment gateways, SaaS platforms and automations.
+</p>
 
-**Stack:** React · React Native · Next.js · TypeScript · Node.js · Flutter · SQL
-
----
-
-🌐 [nsdtecnologia.com](https://nsdtecnologia.com) · 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-brietzke-de-lima-804a60209/) · 📷 [@joao.brietzke](https://instagram.com/joao.brietzke) · 📩 joao.brietzke@nsdtecnologia.com
+<p align="center">
+  <a href="https://nsdtecnologia.com">
+    <img src="https://img.shields.io/badge/Website-1C1C1C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-brietzke-de-lima-804a60209/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/joao.brietzke">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:joao.brietzke@nsdtecnologia.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
