@@ -1,37 +1,13 @@
+# João Vitor Brietzke de Lima
 
-<br/>
-<br/>
-<p align="left"> 
-  🌎 Hi, my name is João Vitor Brietzke de Lima. I'm a <strong>FullStack Web & Mobile Developer.</strong>
-</p>
+Co-Fundador e COO da **NSD Tecnologia**.
 
-<p align="left">
-  🦄 Skills: <strong> ReactJS, React Native, NextJS, Typescript, NodeJS, Styled Components, JavaScript, GraphQL, MongoDB, Flutter, and SQL</strong>
-</p>
+Alocamos devs, especialistas e squads com gestão técnica acoplada — um gestor nosso do seu lado, do início ao fim.
 
-<p align="left">
-  💼 Tools: <strong>Linux, MacOS, VSCode, Figma, Insomnia, Vercel, Heroku, AWS S3, Stripe, Git, GitLab, GitHub e Bitbucket.</strong>
-</p>
+Lidero um time de +20 pessoas em projetos de bancos digitais, gateways de pagamento, SaaS e automações.
 
-<p align="left">
-  💌 If you want to chat with me, don't hesitate to send me a message.
-</p>
+**Stack:** React · React Native · Next.js · TypeScript · Node.js · Flutter · SQL
 
-<div style="
-    display: inline-flex;
-">
-  <div>
-    <p align="left">
-      <a href="https://www.upwork.com/freelancers/~018ea73575e64d2ca4" alt="UpWork">
-        <img src="https://img.shields.io/badge/-UPWORK-1C1C1C?style=for-the-badge&logo=upWork&logoColor=#108a00&link=https://www.upwork.com/in/iuricode"/>
-      </a>
-      <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-brietzke-de-lima-804a60209/" alt="Linkedin">
-        <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
-      </a>
-      <a href="https://www.nexus-sd.com/" alt="Personal website">
-        <img src="https://img.shields.io/badge/COMPANY%20WEBSITE-1C1C1C?style=for-the-badge&logo=appveyor&logoColor=#fff"/>
-      </a>
-    </p>
-    </div>
-      
-</div>
+---
+
+🌐 [nsdtecnologia.com](https://nsdtecnologia.com) · 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-brietzke-de-lima-804a60209/) · 📷 [@joao.brietzke](https://instagram.com/joao.brietzke) · 📩 joao.brietzke@nsdtecnologia.com
