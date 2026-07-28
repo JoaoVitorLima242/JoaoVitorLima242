@@ -1,7 +1,7 @@
 <h1 align="center">João Vitor Brietzke de Lima</h1>
 
 <p align="center">
-  Co-Founder & COO at <strong>NSD Tecnologia</strong>
+  Co-Founder & CTO at <strong>NSD Tecnologia</strong>
 </p>
 
 <p align="center">
