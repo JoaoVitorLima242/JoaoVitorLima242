@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nsdtecnologia.com">
+  <a href="https://blog.joaobrietzke.com">
     <img src="https://img.shields.io/badge/Website-1C1C1C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-brietzke-de-lima-804a60209/">
